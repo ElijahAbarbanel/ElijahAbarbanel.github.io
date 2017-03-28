@@ -11,15 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Experimental projcts
+- Map Navigator
+## Game Projects (some may be incomplete)
+- The Fish Union! (Console Text Based Adventure)
+### What I Have done in 'Intro to Programing'
+- Throughout Janell baxters 'Intro to programming class', I have created many incomplete text games, and experimenal codes to try implement new features that can be used in a text based game. I have created a fully explorable map in my "Dynamic Design" project which allows you navigate between four different inter-connected rooms. In the same project I have also made a code that alows the cahracter to end the program manually instead of having to X ut the console window. In my adventure games I thought up a way to ensure that the player could not progress without ntering a valid response.
 
 **Bold** and _Italic_ and `Code` text
 
