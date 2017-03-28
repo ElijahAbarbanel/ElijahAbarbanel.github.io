@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/ElijahAbarbanel/ElijahAbar
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+What I Have done in 'Intro to Programing'
+- Throughout Janell baxters 'Intro to programming class', I have created many incomplete text games, and experimenal codes to try implement new features that can be used in a text based game. I have created a fully explorable map in my "Dynamic Design" project which allows you navigate between four different inter-connected rooms. In the same project I have also made a code that alows the cahracter to end the program manually instead of having to X ut the console window. In my adventure games I thought up a way to ensure that the player could not progress without ntering a valid response.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
